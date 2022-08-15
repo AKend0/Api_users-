@@ -30,6 +30,7 @@ class User extends Authenticatable
         'observacion',
         'device',
         'ip',
+        'city',
         'country_id',
         'platform_id',
         'division_id',
